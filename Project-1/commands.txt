@@ -1,0 +1,9 @@
+git clone https://github.com/HoshiaiP/Computational-Social-Science-Projects
+cd Computational-Social-Science-Projects
+mkdir Project-1
+cd Project-1
+type nul > commands.txt
+C:\Users\xp\Computational-Social-Science-Projects\Project-1\commands.txt
+git add commands.txt
+git commit -m "Added commands.txt"
+git push
